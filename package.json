@@ -4,6 +4,6 @@
     "description": "NPM for Viewerjs",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/jlnaguirre95/axc-viewerjs"
     }
 }
